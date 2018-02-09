@@ -36,3 +36,15 @@ The constraints are the standard constraints of calendar, costs and norms of qua
 * Provides documentation and evidence that the business venture was thoroughly investigated.
 ### Purpose of a feasability report:
 The purpose of a feasability report is to identify specific factors that could potentially hinder the projects progress as well as identify new oppertunities that may or may not have been initially discovered. The report will also evaluate the projects potential of success. In doing this, the report has to be conducted by an unbias body in order to provide the information so that decisions can be based off this report.
+### Components of a feasability report:
+* **Description of the Business**: Describes the product or services to be offered. 
+
+* **Market Feasibility**: This includes a description of the industry, the current market, anticipated future market potential, competition, sales projections, and potential buyers.
+
+* **Technical Feasibility**: This details how you will deliver your product or service, including issues of materials, labor, transportation, where your business will be located, and the technology needed. 
+
+* **Financial Feasibility**: You should project how much startup capital you'll need and detail potential sources of capital and returns on investment.
+
+* **Organizational Feasibility**: Define the legal and corporate structure of the business. You can also include professional background information about the founders and what skills they can contribute to the business.
+
+* **Conclusions**: Discuss how the business can succeed. Be honest in your assessment because investors won't just look at your conclusions. They will also look at the data and will question your conclusions if they appear unrealistic.
